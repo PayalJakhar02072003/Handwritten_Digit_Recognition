@@ -95,9 +95,7 @@ Predicted class: 7
 
 Custom images can also be tested by providing paths.
 
-🤝 Contributing
 
-Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests with improvements.
 
 📬 Contact
 
